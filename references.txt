@@ -1,0 +1,23 @@
+[BK programmer
+//to update your recycler view 
+https://www.youtube.com/watch?v=C4a9G2d6qQs&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=97
+// coroutines 
+https://www.youtube.com/watch?v=bv7eGvbuxKU&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=180
+until 185 is enough to do our task with coroutines
+//room db
+https://www.youtube.com/watch?v=J8oLO-ZiXFM&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=272&t=3s
+keep going in this series until you know how to do your task
+]
+[coding with nerds
+//coroutines
+https://www.youtube.com/watch?v=9NyGOrztWjE&list=PLXjbGq0ERjFqGlzZFDMCHJA_PBvUIaIto
+//room
+https://www.youtube.com/watch?v=SkvNpRKnZNE&list=PLXjbGq0ERjFq5Y3vEK1v0ic5oEAqmpHa7
+]
+
+1-How Enable app inspection ?
+https://developer.android.com/studio/inspect/database#:~:text=From%20the%20menu%20bar%2C%20select%20View%20%3E%20Tool,for%20the%20database%20that%20you%20want%20to%20inspect.
+2-why we using LiveData with Room DB? 
+https://medium.com/mindorks/using-room-database-with-livedata-android-jetpack-cbf89b677b47
+3- Accessing data using Room DAOs
+https://developer.android.com/training/data-storage/room/accessing-data

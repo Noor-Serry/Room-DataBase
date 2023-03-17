@@ -1,0 +1,3 @@
+https://leetcode.com/problems/number-of-distinct-averages/
+is easy to solve it with sort built in fun and HashSet 
+https://harmash.com/tutorials/java/collection/hashset
